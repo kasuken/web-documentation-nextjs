@@ -31,6 +31,10 @@ By default, Front Matter supports: `md`, `markdown`, and `mdx`. If you want to s
 
 Check out our Hugo configuration documentation to get you started using Front Matter: [Front Matter configuration with Hugo](/docs/hugo-configuration).
 
+### Docusaurus
+
+Check out our Docusaurus configuration documentation to get you started using Front Matter: [Front Matter configuration with Docusaurus](/docs/docusaurus-configuration).
+
 ### Eleventy
 
 *Are you up for the challenge of writing this part of the documentation?*
